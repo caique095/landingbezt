@@ -43,13 +43,13 @@ a:hover{
     transition: 0.3s all;
 }
 
-#contato-btn{
+#conta-btn{
     border: 2px solid #38B6FF;
     padding: 10px;
     border-radius: 15px;
 }
 
-#contato-btn:hover{
+#conta-btn:hover{
     background-color: #38B6FF;
     color: white;
 }
